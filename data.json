@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": "101",
+      "name": "Artur",
+      "surname": "Karapetyan",
+      "salary": 550000
+    },
+    {
+      "id": "102",
+      "name": "Artak",
+      "surname": "Beglaryan",
+      "salary": 380000
+    },
+    {
+      "id": "103",
+      "name": "Vardan",
+      "surname": "Simonyan",
+      "salary": 450000
+    },
+    {
+      "id": "105",
+      "name": "Lusine",
+      "surname": "Papyan",
+      "salary": 450000
+    },
+    {
+      "id": "106",
+      "name": "Nare",
+      "surname": "Petrosyan",
+      "salary": 450000
+    }
+  ]
+}
